@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 #!bin/bash
-=======
-#!/bin/bash
->>>>>>> 21341b6e8419b96cb666118be187c86ebe96b671
 echo "Best School" > "\\\\'\"Best School\"\'\\\$\?\\\\\*:)"
